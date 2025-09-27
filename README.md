@@ -57,10 +57,7 @@ git clone https://github.com/RichardsUL21/InChiral.EC1.git
 cd InChiral.EC1
 pip install -r requirements.txt
 
-| Licencia | Características | Pertinencia para este trabajo |
-|----------|-----------------|-------------------------------|
-| **GNU GPL v3.0** | Obliga a que cualquier modificación o redistribución mantenga la misma licencia. Garantiza libertad de uso, estudio, modificación y distribución. | Asegura que el proyecto siga siendo software libre en futuras versiones, protegiendo el código de usos privativos. Ideal para un enfoque académico y colaborativo. |
-| **MIT License** | Permite usar, modificar y distribuir con mínimas restricciones, incluso en proyectos propietarios, siempre que se mantenga la atribución original. | Ofrece máxima flexibilidad, incluso para uso comercial. Sin embargo, no garantiza que las mejoras futuras permanezcan abiertas. |
+
 
 
 
