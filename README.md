@@ -56,23 +56,6 @@ Un ejemplo histórico es el caso de la **talidomida**, donde un enantiómero era
 git clone https://github.com/RichardsUL21/InChiral.EC1.git
 cd InChiral.EC1
 pip install -r requirements.txt
-## 📊 Comparación de Licencias
 
-| Licencia | Características | Pertinencia para este trabajo |
-|----------|-----------------|-------------------------------|
-| **GNU GPL v3.0** | Obliga a que cualquier modificación o redistribución mantenga la misma licencia. Garantiza libertad de uso, estudio, modificación y distribución. | Asegura que el proyecto siga siendo software libre en futuras versiones, protegiendo el código de usos privativos. Ideal para un enfoque académico y colaborativo. |
-| **MIT License** | Permite usar, modificar y distribuir con mínimas restricciones, incluso en proyectos propietarios, siempre que se mantenga la atribución original. | Ofrece máxima flexibilidad, incluso para uso comercial. Sin embargo, no garantiza que las mejoras futuras permanezcan abiertas. |
 
----
-
-## ✅ Elección de Licencia
-
-Se eligió la **GNU General Public License v3.0 (GPL-3.0)** porque:  
-
-- Garantiza que el proyecto se mantenga como **software libre** en futuras versiones.  
-- Protege contra la apropiación **privativa** del código.  
-- Refuerza el espíritu **académico y colaborativo** en el que se desarrolló este trabajo.  
-
-👉 Puedes consultar el texto completo de la licencia aquí:  
-[GNU GPL v3.0 – Texto oficial](https://www.gnu.org/licenses/gpl-3.0.html)
 
